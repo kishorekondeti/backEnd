@@ -28,7 +28,7 @@ Maven
 IntelliJ IDEA or Eclipse
 Setup and Installation
 
-Clone the repository: bash git clone https://github.com/kishorekondeti/BackendDiscountAutoParts.git 
+Clone the repository: bash git clone https://github.com/kishorekondeti/backEnd.git
 Navigate to the project directory: cd BackendDiscountAutoParts
 Configure MySQL Database:
 Create a new MySQL database.
